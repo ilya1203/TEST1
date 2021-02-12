@@ -124,7 +124,7 @@ USE_TZ = True
 CORS_ORIGIN_ALLOW_ALL = False
 
 CORS_ORIGIN_WHITELIST = (
-       'http://u101757.test-handyhost.ru',
+       'https://front-sepia-nine.vercel.app',
 )
 
 STATIC_URL = '/static/'
