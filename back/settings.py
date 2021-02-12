@@ -124,7 +124,7 @@ USE_TZ = True
 CORS_ORIGIN_ALLOW_ALL = False
 
 CORS_ORIGIN_WHITELIST = (
-       'http://localhost:3000',
+       'http://u101757.test-handyhost.ru',
 )
 
 STATIC_URL = '/static/'
